@@ -4,10 +4,12 @@ Sam Furness
 CHEME5440 Final
 5/14/19
 
+All questions are answered in the SamFurness_CHEME5440Final.pdf PDF document. The work for some of them required coding:
+
 Question 1 Parts B and C are solved using the MATLAB code CHEME5440Final_1.m calling the function ReactionRate.m. Simply just run the former file to get the plot and the K,n values.
 
 Question 2 Part B is solved with CHEME5440Final_2b.m and gives the nullclines plot.
 
 Question 2 Part C  is solved with CHEME5440Final_2c.m and gives the streamline plot.
 
-All other questions are answered in the SamFurness_CHEME5440Final.pdf PDF document.
+

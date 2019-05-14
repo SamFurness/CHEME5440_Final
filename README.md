@@ -9,3 +9,5 @@ Question 1 Parts B and C are solved using the MATLAB code CHEME5440Final_1.m cal
 Question 2 Part B is solved with CHEME5440Final_2b.m and gives the nullclines plot.
 
 Question 2 Part C  is solved with CHEME5440Final_2c.m and gives the streamline plot.
+
+All other questions are answered in the SamFurness_CHEME5440Final.pdf PDF document.
